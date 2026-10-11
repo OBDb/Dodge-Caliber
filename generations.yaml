@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Dodge_Caliber"
+
+generations:
+  - name: "First Generation (PM)"
+    start_year: 2007
+    end_year: 2012
+    description: "A compact hatchback on the GS platform shared with the Jeep Compass and Patriot, with World Engine four-cylinders."
